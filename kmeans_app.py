@@ -53,5 +53,5 @@ st.write("""
 - The number of point centers generated is set to 5 by default
 - The clusters found by the k-means algorithm are identified by colors
 - The stars indicate the centroids of the clusters
-- Code available in this github [repo](https://github.com/arielcedola/WebApps-ariel)
+- Code available in this github [repo](https://github.com/arielcedola/kmeans)
 """)
